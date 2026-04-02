@@ -155,7 +155,7 @@ Level 5 (Owner Rank):
 
 |  Version | Link  | Upload Site | Supports SA-MP |
 |----------|-------|-------------|----------------|
-| Complete | Click |    Github   |      0.3.7     |
+| Complete | [Click](https://github.com/Straydet/JaKe-s-Stunt-DM-Freeroam-Minigames-Roleplay/releases/tag/Original) |    [Github](https://github.com/Straydet/JaKe-s-Stunt-DM-Freeroam-Minigames-Roleplay)   |      0.3.7     |
 
 ## Credits
 
